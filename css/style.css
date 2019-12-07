@@ -569,7 +569,6 @@ html,body {
 }
 #par1 #dsc{
     position: relative;
-    left: 20%;
     top: 30%;
     text-shadow: 2px 2px 1px #000000;
 }
