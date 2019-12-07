@@ -546,7 +546,7 @@ html,body {
     background-attachment: fixed;
     border-radius: 20px;
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-between;
 }
 #par1 #heading {
     position: absolute;
